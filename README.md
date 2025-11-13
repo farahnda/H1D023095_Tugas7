@@ -2,7 +2,12 @@ Nama: Farah Tsani Maulida
 NIM: H1D023095
 Shift D -> Shift F
 
-# Screenshot Aplikasi
+# Screenshot Aplikasi 
+![Image](https://github.com/user-attachments/assets/62c7bdbc-3666-41e2-80ba-9f8dbebc889d)
+![Image](https://github.com/user-attachments/assets/e8134e74-437f-48d3-ac28-cf0a7ea79c3c)
+![Image](https://github.com/user-attachments/assets/4d56c02c-0f0a-4ef0-89b4-1080343804d1)
+![Image](https://github.com/user-attachments/assets/b8ce3eed-e57f-4c5a-9dee-b8e8ff62597b)
+![Image](https://github.com/user-attachments/assets/bcff1cdf-9a3b-4ee3-9f01-5b339fabd2f8)
 
 # Penjelasan Tiap Bagian Kode
 ## 1. `main.dart`
