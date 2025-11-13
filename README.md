@@ -132,7 +132,7 @@ Tampilan utama dengan:
 - Drawer (menu samping)
 - Tulisan sambutan dengan nama user.
 
-## 4. `profile_page.dart
+## 4. `profile_page.dart`
 Untuk menampilkan profil pengguna dari data yang disimpan lokal.
 
 ```
